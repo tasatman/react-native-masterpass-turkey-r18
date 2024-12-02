@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/tasatman/react-native-masterpass-turkey-r18.git",
     "baseUrl": "https://github.com/tasatman/react-native-masterpass-turkey-r18.git"
-  },  
+  },
   "keywords": [
     "masterpass",
     "react-native"
@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "react-native": "^0.76.3",
-    "react-native-web": "^0.19.13"
+    "react-native-web": "^0.19.13",
+    "react-native-webview": "^13.12.4"
   }
 }
