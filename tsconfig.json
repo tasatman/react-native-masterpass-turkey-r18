@@ -13,9 +13,8 @@
     "esModuleInterop": true,
     "useDefineForClassFields": true,
     "skipLibCheck": true,
-    "types": []
+    "types": [],
+    "baseUrl": "./"
   },
-  "include": [
-    "lib/*"
-  ]
+  "include": ["lib/*"]
 }
