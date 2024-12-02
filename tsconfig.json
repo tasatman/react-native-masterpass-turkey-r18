@@ -14,7 +14,11 @@
     "useDefineForClassFields": true,
     "skipLibCheck": true,
     "types": [],
-    "baseUrl": "./"
+    "baseUrl": "./",
+    "resolveJsonModule": true,
+    "paths": {
+      "*": ["node_modules/*"]
+    }
   },
   "include": ["lib/*"]
 }
