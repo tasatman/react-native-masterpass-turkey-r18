@@ -8,6 +8,11 @@
     "build": "tsc -p tsconfig.json",
     "test": "mocha --reporter spec"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tasatman/react-native-masterpass-turkey-r18.git",
+    "baseUrl": "https://github.com/tasatman/react-native-masterpass-turkey-r18.git"
+  },  
   "keywords": [
     "masterpass",
     "react-native"
