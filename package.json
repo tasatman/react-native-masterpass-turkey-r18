@@ -1,5 +1,5 @@
 {
-  "name": "react-native-masterpass-turkey",
+  "name": "react-native-masterpass-turkey-r18",
   "version": "0.0.24",
   "description": "React Native Masterpass Turkey",
   "main": "dist/index.js",
@@ -8,11 +8,6 @@
     "build": "tsc -p tsconfig.json",
     "test": "mocha --reporter spec"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/murat-mehmet/react-native-masterpass-turkey.git",
-    "baseUrl": "https://github.com/murat-mehmet/react-native-masterpass-turkey"
-  },
   "keywords": [
     "masterpass",
     "react-native"
@@ -20,10 +15,6 @@
   "author": "murat-mehmet",
   "license": "MIT",
   "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/murat-mehmet/react-native-masterpass-turkey/issues"
-  },
-  "homepage": "https://github.com/murat-mehmet/react-native-masterpass-turkey#readme",
   "devDependencies": {
     "@types/react-native": "^0.60.25",
     "chai": "^4.2.0",

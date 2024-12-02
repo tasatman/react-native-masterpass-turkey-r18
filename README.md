@@ -70,5 +70,3 @@ Check [MasterPassExample.js][l] for a full implementation of sdk
 ```sh
 npm run test
 ```
-
-[l]: https://github.com/murat-mehmet/react-native-masterpass-turkey/blob/HEAD/example/MasterPassExample.js
