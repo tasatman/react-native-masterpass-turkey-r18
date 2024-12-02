@@ -4,8 +4,8 @@ Masterpass Turkey implementation for React Native using its JS SDK. This project
 
 ## Installation 
 ```sh
-npm install react-native-masterpass-turkey-r18 --save
-yarn add react-native-masterpass-turkey-r18
+npm install react-native-masterpass-turkey --save
+yarn add react-native-masterpass-turkey
 ```
 
 Also make sure you have `react-native-webview` peer dependency installed
@@ -16,7 +16,7 @@ yarn add react-native-webview
 ## Usage
 ```javascript
 import React, {Component} from 'react';
-import {MasterPassTurkey} from 'react-native-masterpass-turkey-r18';
+import {MasterPassTurkey} from 'react-native-masterpass-turkey';
 
 @observer
 export class App extends Component {
