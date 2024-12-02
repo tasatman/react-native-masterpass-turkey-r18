@@ -2,7 +2,7 @@ import moment from "moment";
 import React, { Component, useCallback } from "react";
 import { Button, Image, Linking, Text, TextInput, TouchableOpacity, View } from "react-native";
 import DialogInput from "react-native-dialog-input";
-import { CardAction, MasterPassTurkey, OtpAction, PurchaseAction, RegistrationCheckAction } from "react-native-masterpass-turkey";
+import { CardAction, MasterPassTurkey, OtpAction, PurchaseAction, RegistrationCheckAction } from "react-native-masterpass-turkey-r18";
 import RNPickerSelect from "react-native-picker-select";
 
 class MasterPassExample extends Component {
